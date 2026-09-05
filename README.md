@@ -50,7 +50,7 @@ caches.
 
 - Personal-use tool. It reaches several services in ways their terms don't
   strictly allow (YouTube extraction, a scraped SoundCloud key, Spotify/Apple
-  page scraping for playlist import). Nothing is redistributed; no accounts, no
+  page scraping for playlist import).  no accounts, no
   telemetry.
 - Everything it stores is local metadata in `~/Library/Preferences` — no media,
   no tokens.
